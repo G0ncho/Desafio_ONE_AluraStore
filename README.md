@@ -34,12 +34,6 @@ Las siguientes herramientas y librerías fueron utilizadas en el desarrollo de e
 * **Matplotlib:** Generación de gráficos comparativos (Barras, Eje Dual).
 * **Folium:** Generación de Mapas Interactivos y Mapas de Calor (Heatmaps) para el análisis geográfico extra.
 
-Para ejecutar el proyecto, asegúrate de tener instaladas las dependencias:
-```bash
-pip install pandas matplotlib folium numpy
-
----
-
 ## 🚀 4. Estructura del Proyecto
 
 El código fuente principal se encuentra en el cuaderno base proporcionado por Alura.
@@ -64,3 +58,10 @@ El código fuente principal se encuentra en el cuaderno base proporcionado por A
  Gonzalo Galvan
 (https://www.linkedin.com/in/gonzalo-ignacio-galvan/)
 (https://github.com/G0ncho)
+
+Para ejecutar el proyecto, asegúrate de tener instaladas las dependencias:
+```bash
+pip install pandas matplotlib folium numpy
+
+---
+
