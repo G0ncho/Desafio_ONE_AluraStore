@@ -61,6 +61,6 @@ El código fuente principal se encuentra en el cuaderno base proporcionado por A
 
 ## 5. Contacto
 
-* **Tu Nombre:** Gonzalo Galvan
-* **LinkedIn:** [[Tu URL de LinkedIn]](https://www.linkedin.com/in/gonzalo-ignacio-galvan/)
-* **GitHub:** [[Tu Perfil de GitHub]](https://github.com/G0ncho)
+ Gonzalo Galvan
+ [[Tu URL de LinkedIn]](https://www.linkedin.com/in/gonzalo-ignacio-galvan/)
+ [[Tu Perfil de GitHub]](https://github.com/G0ncho)
