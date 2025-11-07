@@ -38,16 +38,14 @@ Las siguientes herramientas y librerías fueron utilizadas en el desarrollo de e
 
 El código fuente principal se encuentra en el cuaderno base proporcionado por Alura.
 
-* `[Nombre de tu archivo].ipynb` o `Desafio_Alura_Store.ipynb`: Cuaderno de Jupyter/Colab que contiene todo el código de carga, limpieza, análisis, visualización y el informe final.
+* `AluraStoreLatam.ipynb`: Cuaderno de Colab que contiene todo el código de carga, limpieza, análisis, visualización y el informe final.
 * `README.md`: Este archivo de documentación.
-* *Otros archivos de soporte (ej. Imágenes generadas si las exportaste).*
+
 
 ### Cómo Ejecutar el Proyecto
 
 1.  **Clonar el Repositorio:**
-    ```bash
-    git clone [https://docs.github.com/es/repositories/creating-and-managing-repositories/quickstart-for-repositories](https://docs.github.com/es/repositories/creating-and-managing-repositories/quickstart-for-repositories)
-    ```
+    git clone https://github.com/G0ncho/Desafio_ONE_AluraStore.git
 2.  **Abrir el Cuaderno:** Sube el archivo `.ipynb` a Google Colab o abrelo en tu entorno local (Jupyter Notebook/Lab).
 3.  **Ejecutar las Celdas:** Ejecuta las celdas secuencialmente para replicar el análisis completo y visualizar el informe ejecutivo.
 
@@ -55,9 +53,9 @@ El código fuente principal se encuentra en el cuaderno base proporcionado por A
 
 ## 5. Contacto
 
- Gonzalo Galvan
-(https://www.linkedin.com/in/gonzalo-ignacio-galvan/)
-(https://github.com/G0ncho)
+Nombre: Gonzalo Galvan
+Linkedin: https://www.linkedin.com/in/gonzalo-ignacio-galvan/
+Github: https://github.com/G0ncho
 
 Para ejecutar el proyecto, asegúrate de tener instaladas las dependencias:
 ```bash
