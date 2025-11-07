@@ -53,9 +53,9 @@ El código fuente principal se encuentra en el cuaderno base proporcionado por A
 
 ## 5. Contacto
 
-Nombre: Gonzalo Galvan
-Linkedin: https://www.linkedin.com/in/gonzalo-ignacio-galvan/
-Github: https://github.com/G0ncho
+* Nombre: Gonzalo Galvan
+* Linkedin: https://www.linkedin.com/in/gonzalo-ignacio-galvan/
+* Github: https://github.com/G0ncho
 
 Para ejecutar el proyecto, asegúrate de tener instaladas las dependencias:
 ```bash
